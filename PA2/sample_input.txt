@@ -1,0 +1,19 @@
+print_all
+get basic_of_love
+add history A4-123
+add true_romance B5-331
+add purity_of_dancer C2-112
+add cats_on_catnip B3-319
+add deep_learning D2-554
+add data_structure D7-301
+remove history
+size
+print_all
+add friends Z1-342
+order_search data_structure
+order_search 2
+order_search the_dungeon_and_dragon
+remove how_to_make_girl_friend
+print_tree
+
+
